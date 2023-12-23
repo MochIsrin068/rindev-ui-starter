@@ -1,28 +1,28 @@
 {
-    "name": "@rindev-ui/input_search",
-    "version": "1.0.0",
-    "description": "> TODO: description",
-    "author": "Rindev <isrin068@gmail.com>",
-    "homepage": "https://github.com/MochIsrin068/rindev-ui-starter#readme",
-    "license": "ISC",
-    "srcFile": "lib",
-    "srcName": "input_search",
-    "main": "dist/input_search.umd.js",
-    "files": [
-      "dist/"
-    ],
-    "publishConfig": {
-      "access": "public"
-    },
-    "repository": {
-      "type": "git",
-      "url": "git+ssh://git@github.com/MochIsrin068/rindev-ui-starter.git"
-    },
-    "scripts": {
-      "test": "echo \"Error: run tests from root\" && exit 1"
-    },
-    "browser": true,
-    "bugs": {
-      "url": "https://github.com/MochIsrin068/rindev-ui-starter/issues"
-    }
+  "name": "@rindev-ui/input_search",
+  "version": "1.0.1",
+  "description": "> TODO: description",
+  "author": "Rindev <isrin068@gmail.com>",
+  "homepage": "https://github.com/MochIsrin068/rindev-ui-starter#readme",
+  "license": "ISC",
+  "srcFile": "lib",
+  "srcName": "input_search",
+  "main": "dist/input_search.umd.js",
+  "files": [
+    "dist/"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MochIsrin068/rindev-ui-starter.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "browser": true,
+  "bugs": {
+    "url": "https://github.com/MochIsrin068/rindev-ui-starter/issues"
   }
+}

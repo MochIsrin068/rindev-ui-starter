@@ -1,0 +1,10 @@
+30 error Error: Command failed with exit code 1: git add -- packages/input_search/package.json package-lock.json
+30 error The following paths are ignored by one of your .gitignore files:
+30 error package-lock.json
+30 error hint: Use -f if you really want to add them.
+30 error hint: Turn this message off by running
+30 error hint: "git config advice.addIgnoredFile false"
+30 error     at makeError (/Users/waresix/Documents/RINDEV/library/rindev-ui/node_modules/execa/lib/error.js:60:11)
+30 error     at handlePromise (/Users/waresix/Documents/RINDEV/library/rindev-ui/node_modules/execa/index.js:118:26)
+30 error     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+30 error     at async Promise.all (index 0)
