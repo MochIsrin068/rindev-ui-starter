@@ -9,7 +9,8 @@
         "test/**",
         "**/test/**",
         "tests/**",
-        "**/tests/**"
+        "**/tests/**",
+        "packages/**/package-lock.json"
       ]
     }
   },
